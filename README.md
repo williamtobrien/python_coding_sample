@@ -2,15 +2,25 @@ This is a repository for a Python code sample cleaning and analyzing the effect 
 
 # Required Packages
 `import pandas as pd`
+
 `import numpy as np`
+
 `import matplotlib.pyplot as plt`
+
 `import sklearn`
+
 `import seaborn as sns`
+
 `import statsmodels.api as sm`
+
 `import statsmodels.formula.api as smf`
+
 `from sklearn.model_selection import train_test_split, KFold, cross_val_score`
+
 `from sklearn.ensemble import RandomForestRegressor`
+
 `from sklearn.tree import DecisionTreeRegressor`
+
 `from sklearn.metrics import mean_squared_error, r2_score`
 
 # Required Data
